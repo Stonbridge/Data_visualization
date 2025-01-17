@@ -1,4 +1,5 @@
 This is the code repository for data dimensionality reduction and clustering in this study. It includes self-organizing mapping and K-means clustering. Firstly, perform simple preprocessing on the data, and then feed it into the SOM network for training. The trained results will be clustered based on K-means. Finally, a clustering distribution graph based on SOM two-dimensional topological structure will be obtained. The following is the result graph based on SOM and k-means training.
+Data Availability：The physical and mental health data was acquired from Baoshan District Education Bureau, Shanghai, China, and they have not given their permission for researchers to share their data. Data requests can be made to Baoshan District Education Bureau via this email: baozhongxinli@163.com.
 Interactive parallel coordinates are written in Python using pandas and plotly.
 ![image](https://github.com/user-attachments/assets/1d2d2875-8d83-4f1d-b6ba-6cf00d8bdb45)
 ![image](https://github.com/user-attachments/assets/4b925a04-e21a-42c3-b104-c15828a4fa12)

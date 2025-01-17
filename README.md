@@ -9,7 +9,6 @@
 The following are the results of self-organizing mapping and k-means network clustering.
 ![image](https://github.com/user-attachments/assets/ae9f4924-f5ee-4e94-9fef-e0a4df0ea0c7)
 ![image](https://github.com/user-attachments/assets/45288a8a-c5ed-4469-a7bd-cf055b8dfec7)
-![image](https://github.com/user-attachments/assets/7d751a0b-dab5-4290-9acc-16ed47e6ff89)
 ![image](https://github.com/user-attachments/assets/3b3ab80a-d628-45e3-ae8b-052be97780e6)
 ![image](https://github.com/user-attachments/assets/4f6829c5-ea6a-4033-bd04-5e600e025920)
 
